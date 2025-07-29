@@ -1,10 +1,10 @@
 import React, { useRef, useState, useEffect } from "react";
 import styled, { createGlobalStyle } from "styled-components";
 
-import image1 from "../images/1.jpeg";
-import image2 from "../images/2.jpeg";
-import image3 from "../images/3.jpeg";
-import image4 from "../images/4.jpeg";
+import image1 from "./images/1.jpeg";
+import image2 from "./images/2.jpeg";
+import image3 from "./images/3.jpeg";
+import image4 from "./images/4.jpeg";
 
 const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
